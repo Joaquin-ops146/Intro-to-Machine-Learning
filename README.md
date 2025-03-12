@@ -1,4 +1,3 @@
-theme: jekyll-theme-minimal
 # [Intro-to-Machine-Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
 My Machine Learning Portfolio
 # Real Estate Price Prediction Model
