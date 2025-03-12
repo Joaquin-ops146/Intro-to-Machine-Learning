@@ -5,8 +5,18 @@ This project is part of the "Intro to Machine Learning" course from Kaggle, wher
 The scenario of the course is that I work with my cousin in the real estate sector, this project has practical applications in estimating property values.
 ## Data Processing and Feature Engineering ##
 * **Data Exploration:** Used pandas to manipulate datasets and analyze key variables influencing property prices.
+
+<p align="center">
+    <img src="https://github.com/Joaquin-ops146/Intro-to-Machine-Learning/blob/main/images/Data%20summary.png" width="700">
+</p>
+
 * **Preprocessing:** Handled missing values, encoded categorical variables, and normalized numerical features for better model performance.
-* **Feature Selection:** Identified the most relevant variables to improve model accuracy and reduce overfitting.
+* **Feature Selection:** Identified the most relevant columns to improve model accuracy and reduce overfitting.
+
+<p align="center">
+    <img src="https://github.com/Joaquin-ops146/Intro-to-Machine-Learning/blob/main/images/list%20of%20features.png" width="700">
+</p>
+
 ## Model Training and Optimization ##
 * **Algorithm Selection:** Implemented Decision Trees and advanced models like Random Forest to enhance predictive accuracy.
 * **Hyperparameter Tuning:** Used GridSearchCV to optimize parameters and boost model efficiency.
