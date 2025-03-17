@@ -2,7 +2,7 @@
 My Machine Learning Portfolio
 # Real Estate Price Prediction Model
 This project is part of the "Intro to Machine Learning" course from Kaggle, where I developed a model to predict real estate prices. 
-The scenario of the course is that I work with my cousin in the real estate sector, this project has practical applications in estimating property values.
+The course scenario is that I work with my cousin in the real estate sector, and this project has practical applications in estimating property values.
 ## Data Processing and Feature Engineering ##
 * **Data Exploration:** Used pandas to manipulate datasets and analyze key variables influencing property prices.
 
