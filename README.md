@@ -7,7 +7,7 @@ The course scenario is that I work with my cousin in the real estate sector, and
 * **Data Exploration:** Used pandas to manipulate datasets and analyze key variables influencing property prices.
 
 <p align="center">
-    <img src=images/Data summary.png>
+    <img src="https://github.com/Joaquin-ops146/Intro-to-Machine-Learning/blob/main/images/Data%20summary.png">
 </p>
 
 * **Preprocessing:** Handled missing values, encoded categorical variables, and normalized numerical features for better model performance.
